@@ -6,3 +6,5 @@
 	require_once(get_template_directory().'/functions/public.php');
 	// Register misc functions
 	require_once(get_template_directory().'/functions/admin.php');
+	// Register misc functions
+	require_once(get_template_directory().'/functions/helper.php');
